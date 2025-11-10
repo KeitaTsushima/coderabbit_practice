@@ -7,7 +7,7 @@ reviews:
     enabled: true
     # Review all pull requests, regardless of target branch
     base_branches:
-      - "*"
+      - ".*"
 
   # Review profile: assertive (more feedback) or chill (less feedback)
   profile: assertive
